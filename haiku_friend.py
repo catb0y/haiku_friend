@@ -40,7 +40,7 @@ def haiku_friend():
             print "Your line should contain exactly 7 syllables!"
 
     while True:
-        line3 = raw_input("Enter the first line (5 syllables again!) ")
+        line3 = raw_input("Enter the third line (5 syllables again!) ")
         if math.ceil(textstat.syllable_count(line3)) == 5:
             haiku.append(line3)
             break
