@@ -1,6 +1,6 @@
 ## Haiku_friend cares about your haikus
 
-It friendly helps you to make a haiku, right amount of syllable per line an all.
+It friendly helps you to make a haiku, right amount of syllable per line and all.
 
 ### Some haiku rules via [HowManySyllables](https://www.howmanysyllables.com/english_grammar/poetry/haiku_rules)
 
